@@ -1,0 +1,36 @@
+_repo: Kuninkaitten-kuningas_69933
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2023-02-02'
+identifiers:
+  gutenberg: '69933'
+language: fi
+pgterms:marc905: 20221125051858wells
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aFinland :$bHolger Schildtin kustannusosakeyhtiö, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuninkaitten kuningas
+url: http://www.gutenberg.org/ebooks/69933
